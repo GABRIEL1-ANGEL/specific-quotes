@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #000;
+}
+
+h1 {
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+button {
+    padding: 40px 80px;
+    margin-top: 80px;
+    margin-left: 90px;
+}
+
+button.a {
+    background-color: red;
+}
+
+button.a:hover {
+    background-color: blue;
+}
+
+button.b {
+    background-color: #fff;
+}
+
+button.b:hover {
+    background-color: #000;
+}
+
+button.c {
+    background-color: green;
+}
+
+button.c:hover {
+    background-color: yellow;
+}
+
+button.d{
+    background-color: pink;
+}
+
+button.d:hover {
+    background-color: purple;
+}
+
+button.e {
+    background-color:brown;
+}
+
+button.e:hover {
+    background-color: chocolate;
+}
